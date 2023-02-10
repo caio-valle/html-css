@@ -1,2 +1,4 @@
 # html-css
- Repositorio
+ Repositorio para estudos
+
+Estudos HTML e CSS
